@@ -3,7 +3,7 @@
 
 ### Commit notation
 **Heuristic**: Keep commit messages short in order to reduce the relative cost of committing, which means you’ll commit more often.  
-Make use of the `⌘`+`K`, `⌘`+`⏎`/`⌘`+`⌥`+`K` shortcuts in Rider IDE to move to the commit window and commit/push.
+Make use of the `⌘`+`K`, `⌘`+`⏎`/`⌘`+`⌥`+`K` shortcuts in IntelliJ IDE to move to the commit window and commit/push.
 
 - `xm` - extract method  
 - `xp` - extract parameter  
