@@ -39,7 +39,7 @@ In Lean terms, this commit notation reduces batch transaction cost which enables
 - `fmt` - format  
 
 _Heuristic_: _**Every change commited must be deployable to production. If a commit is not deployable, the change is most likely not sufficiently small. Find smaller step instead.**_  
-If anyone in the group is feeling anxious about the risk of the change (they feel a change is too risky), we revert back to safety and do it in smaller, safer steps. Anxiety about the step is useful feedback about the risk and size of the change. That is especially important in code that is not covered with tests or that we need to tweak enough to be able to test it (catch 22).
+If anyone in the group is feeling anxious about the risk of a change (they feel a change is too risky), we revert back to safety and do it in smaller, safer steps. Anxiety about the step is useful feedback about the risk and size of the change. That is especially important in code that is not covered with tests or that we need to tweak enough to be able to test it (catch 22).
 
 
 ### Most Used Shortcuts
