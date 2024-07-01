@@ -55,11 +55,11 @@ If anyone in the group is feeling anxious about the risk of a change (they feel 
 - Extract field (convert a local variable to a class field) - `Command` + `Option` + `F`  
 - Extract constant - `Command` + `Option` + `C`
 - Extract parameter - `Command` + `Option` + `P`  
-- Inline variable/method - `Command` + `Option` + `N`  
+- Inline variable/method/parameter - `Command` + `Option` + `N`  
 
 - Change method signature - `Command` + `F6`  
 - Move static method - `F6`  
-- Magic shortcut! Move a static method to a class of one of the parameter's and make it an instance method (also called Make Method Non-Static) - `Command` + `Option` + `I`  
+- Make Method Non-Static (move static method to a type of one of the parameter's and make it an instance method) - `Command` + `Option` + `I`  (custom binding you'd need to make in a keymap) [link to a keymap]
 
 - Format code - `Command` + `Option` + `L`  
 
@@ -80,4 +80,8 @@ If anyone in the group is feeling anxious about the risk of a change (they feel 
 - Go to method definition/find usages - `Command` + `B`
 - Expand selection - `Option` + `Up`  
 - Shrink selection - `Option` + `Down`  
-- Move line/code block/method up/down - `Command` + `Shift` + `Up`/`Down`  
+- Move line/code block/method up/down - `Command` + `Shift` + `Up`/`Down`
+- Move to the previous/next method in a class - `Command` + `Up`/`Down`
+- Move to the previous/next paragraph - `Command` + `Option` + `Up`/`Down`
+- 
+Feel free to use with with [Arlo's commit notation](https://github.com/RefactoringCombos/ArlosCommitNotation) (the purposes of these two are different, I'd say).
