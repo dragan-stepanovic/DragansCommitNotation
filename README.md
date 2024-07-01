@@ -29,29 +29,34 @@ If anyone in the group is feeling anxious about the risk of the change (they fee
 
 ### Most Used Shortcuts
 
+#### Refactorings  
 - Rename method - `Shift` + `F6`  
 - Extract variable - `Command` + `Option` + `V`  
 - Extract method - `Command` + `Option` + `M`  
-- Introduce field (convert a local variable to a class field) - `Command` + `Option` + `F`  
-- Introduce constant - `Command` + `Option` + `C`  
+- Extract field (convert a local variable to a class field) - `Command` + `Option` + `F`  
+- Extract constant - `Command` + `Option` + `C`
+- Inline variable/method - `Command` + `Option` + `N`  
+- Extract parameter - `Command` + `Option` + `P`  
+
 - Change method signature - `Command` + `F6`  
 - Move static method - `F6`  
-- Inline variable/method - `Command` + `Option` + `N`  
-- Introduce parameter - `Command` + `Option` + `P`  
 - Magic shortcut! Move a static method to a class of one of the parameter's and make it an instance method (also called Make Method Non-Static) - `Command` + `Option` + `I`  
-- Expand selection - `Option` + `Up`  
-- Shrink selection - `Option` + `Down`  
 
 - Format code - `Command` + `Option` + `L`  
 
+#### Commit and Push  
 - Commit - `Command` + `K`  
 - Push - `Command` + `Shift` + `K`
 - Commit and push - `Command` + `Option` + `K`  
 - Discard not committed changes - `Command` + `Option` + `Z`
 
+#### Tests  
 - Run all tests in solution - `Command` + `;` + `L`  
 - Run all tests with coverage from the solution - `Command` + `;` + `K`  
 - Run last test session - `Command` + `;` + `Y`  
 
-- Go to method definition/find usages - `Command` + `B`  
-- Move line up/down - `Command` + `Shift` + `Up`/`Down`  
+#### Code Navigation and Selection  
+- Go to method definition/find usages - `Command` + `B`
+- Expand selection - `Option` + `Up`  
+- Shrink selection - `Option` + `Down`  
+- Move line/code block/method up/down - `Command` + `Shift` + `Up`/`Down`  
