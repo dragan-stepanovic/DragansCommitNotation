@@ -61,7 +61,7 @@ If anyone in the group is feeling anxious about the risk of the change (they fee
 - Commit - `Command` + `K`  
 - Push - `Command` + `Shift` + `K`
 - Commit and push - `Command` + `Option` + `K`  
-- Discard not committed changes - `Command` + `Option` + `Z`
+- Discard uncommitted changes - `Command` + `Option` + `Z`
 
 #### Tests  
 - Run all tests in solution - `Command` + `;` + `L`  
