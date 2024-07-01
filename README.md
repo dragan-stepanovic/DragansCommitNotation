@@ -2,7 +2,7 @@
 
 
 ### Commit notation
-_Heuristic_: **Keep commit messages short to reduce the relative cost of committing compared to the size of a change**.  
+_Heuristic_: _**Keep commit messages short to reduce the relative cost of committing compared to the size of a change**._  
 The easier and faster it is to commit, the more often I'll do it, the smaller the changes I'll be making.  
 In Lean terms, this commit notation reduces batch transaction cost which enables smaller batches and more frequent integration.    
 
