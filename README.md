@@ -60,8 +60,8 @@ If anyone in the group is feeling anxious about the risk of the change (they fee
 
 #### Tests  
 - Run all tests in solution - `Command` + `;` + `L`  
-- Run all tests with coverage from the solution - `Command` + `;` + `K`  
 - Run last test session - `Command` + `;` + `Y`  
+- Run all tests with coverage - `Command` + `;` + `K`  
 
 #### Code Navigation and Selection  
 - Go to method definition/find usages - `Command` + `B`
