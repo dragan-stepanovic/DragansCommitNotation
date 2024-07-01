@@ -50,8 +50,8 @@ If anyone in the group is feeling anxious about the risk of a change (they feel 
 - Extract method - `Command` + `Option` + `M`
 - Extract field (convert a local variable to a class field) - `Command` + `Option` + `F`  
 - Extract constant - `Command` + `Option` + `C`
-- Inline variable/method - `Command` + `Option` + `N`  
 - Extract parameter - `Command` + `Option` + `P`  
+- Inline variable/method - `Command` + `Option` + `N`  
 
 - Change method signature - `Command` + `F6`  
 - Move static method - `F6`  
