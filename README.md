@@ -81,7 +81,7 @@ If anyone in the group is feeling anxious about the risk of a change (they feel 
 - Expand selection - `Option` + `Up`  
 - Shrink selection - `Option` + `Down`  
 - Move line/code block/method up/down - `Command` + `Shift` + `Up`/`Down`
-- Move to the previous/next method in a class - `Command` + `Up`/`Down`
-- Move to the previous/next paragraph - `Command` + `Option` + `Up`/`Down`
-- 
+- Move to the previous/next method in a class - `Command` + `Up`/`Down` [custom binding]
+- Move to the previous/next paragraph - `Command` + `Option` + `Up`/`Down` [custom binding]
+  
 Feel free to use with with [Arlo's commit notation](https://github.com/RefactoringCombos/ArlosCommitNotation) (the purposes of these two are different, I'd say).
