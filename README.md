@@ -23,7 +23,7 @@ Make use of the `⌘`+`K`, `⌘`+`⏎`/`⌘`+`⌥`+`K` shortcuts in Rider IDE to
 - `rd` - remove duplication  
 - `tda` - Tell Don’t Ask
 
-_**Every change commited must be deployable. If the commit is not deployable the step is most likely not sufficiently small.**_  
+_**Every change commited must be deployable to production. If the commit is not deployable the step is most likely not sufficiently small.**_  
 If anyone in the group is feeling anxious about the risk of the change (they feel a change is too risky), we revert back to safety and do it in smaller, safer steps. Especially important in code that is not covered with tests or that we want to tweak enough to be able to test.
 
 
