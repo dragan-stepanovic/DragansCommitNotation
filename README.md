@@ -1,4 +1,4 @@
-# Dragan's Commit Notation and Most Used Shortcuts
+# Dragan's Commit Notation and Most Used Shortcuts (for IntelliJ IDEs)
 
 
 ### Commit notation
@@ -64,7 +64,7 @@ If anyone in the group is feeling anxious about the risk of a change (they feel 
 - Commit (once in the commit dialog) - `Command` + `Enter`
 - Push - `Command` + `Shift` + `K`
 - Commit and push - `Command` + `Option` + `K`  
-- Discard uncommitted changes - `Command` + `Option` + `Z`
+- Discard uncommitted changes - `Command` + `Option` + `Z` (if you want to discard all changes you can then `Command` + `A` + `Space` to select all files and then `Option` + `R` to rollback)
 
 #### Tests  
 - Run all tests in solution - `Command` + `;` + `L`  
