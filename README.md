@@ -22,9 +22,6 @@ Heuristic: Keep commit messages short in order to reduce the relative cost of co
 - `rd` - remove duplication  
 - `tda` - Tell Don’t Ask  
 
-
-
-
 ### Most Used Shortcuts
 
 - Run all tests from the solution - `Command` + `;` + `L`  
