@@ -42,9 +42,9 @@ If anyone in the group is feeling anxious about the risk of the change (they fee
 ### Most Used Shortcuts
 
 #### Refactorings  
-- Rename method - `Shift` + `F6`  
-- Extract variable - `Command` + `Option` + `V`  
-- Extract method - `Command` + `Option` + `M`  
+- Rename method - `Shift` + `F6`
+- Extract variable - `Command` + `Option` + `V`
+- Extract method - `Command` + `Option` + `M`
 - Extract field (convert a local variable to a class field) - `Command` + `Option` + `F`  
 - Extract constant - `Command` + `Option` + `C`
 - Inline variable/method - `Command` + `Option` + `N`  
