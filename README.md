@@ -29,7 +29,7 @@ If anyone in the group is feeling anxious about the risk of the change (they fee
 
 ### Most Used Shortcuts
 
-- Run all tests from the solution - `Command` + `;` + `L`  
+- Run all tests in solution - `Command` + `;` + `L`  
 - Run all tests with coverage from the solution - `Command` + `;` + `K`  
 - Run last test session - `Command` + `;` + `Y`  
 - Introduce a variable - `Command` + `Option` + `V`  
