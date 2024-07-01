@@ -46,8 +46,8 @@ If anyone in the group is feeling anxious about the risk of a change (they feel 
 
 #### Refactorings  
 - Rename method - `Shift` + `F6`
-- Extract variable - `Command` + `Option` + `V`
 - Extract method - `Command` + `Option` + `M`
+- Extract variable - `Command` + `Option` + `V`
 - Extract field (convert a local variable to a class field) - `Command` + `Option` + `F`  
 - Extract constant - `Command` + `Option` + `C`
 - Extract parameter - `Command` + `Option` + `P`  
