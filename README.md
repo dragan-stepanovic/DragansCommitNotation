@@ -5,6 +5,11 @@
 **Heuristic**: Keep commit messages short in order to reduce the relative cost of committing, which means you’ll commit more often.  
 Make use of the `⌘`+`K`, `⌘`+`⏎`/`⌘`+`⌥`+`K` shortcuts in IntelliJ IDE to move to the commit window and commit/push.
 
+- `rm` - rename method  
+- `rv` - rename variable  
+- `rp` - rename parameter  
+- `rf` - rename field
+  
 - `xm` - extract method  
 - `xp` - extract parameter  
 - `xv` - extract variable  
@@ -14,10 +19,6 @@ Make use of the `⌘`+`K`, `⌘`+`⏎`/`⌘`+`⌥`+`K` shortcuts in IntelliJ IDE
 - `iv` - inline variable  
 - `im` - inline method  
 - `ip` - inline parameter  
-- `rm` - rename method  
-- `rv` - rename variable  
-- `rp` - rename parameter  
-- `rf` - rename field  
 - `mm` - move method  
 - `fmt` - format  
 - `rd` - remove duplication  
