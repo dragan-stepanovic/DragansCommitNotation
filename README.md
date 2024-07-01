@@ -29,10 +29,8 @@ If anyone in the group is feeling anxious about the risk of the change (they fee
 
 ### Most Used Shortcuts
 
-- Run all tests in solution - `Command` + `;` + `L`  
-- Run all tests with coverage from the solution - `Command` + `;` + `K`  
-- Run last test session - `Command` + `;` + `Y`  
-- Introduce a variable - `Command` + `Option` + `V`  
+- Rename method - `Shift` + `F6`  
+- Extract variable - `Command` + `Option` + `V`  
 - Extract method - `Command` + `Option` + `M`  
 - Introduce field (convert a local variable to a class field) - `Command` + `Option` + `F`  
 - Introduce constant - `Command` + `Option` + `C`  
@@ -43,11 +41,17 @@ If anyone in the group is feeling anxious about the risk of the change (they fee
 - Magic shortcut! Move a static method to a class of one of the parameter's and make it an instance method (also called Make Method Non-Static) - `Command` + `Option` + `I`  
 - Expand selection - `Option` + `Up`  
 - Shrink selection - `Option` + `Down`  
-- Discard not committed changes - `Command` + `Option` + `Z`  
+
 - Format code - `Command` + `Option` + `L`  
+
 - Commit - `Command` + `K`  
 - Push - `Command` + `Shift` + `K`
 - Commit and push - `Command` + `Option` + `K`  
-- Rename method - `Shift` + `F6`  
+- Discard not committed changes - `Command` + `Option` + `Z`
+
+- Run all tests in solution - `Command` + `;` + `L`  
+- Run all tests with coverage from the solution - `Command` + `;` + `K`  
+- Run last test session - `Command` + `;` + `Y`  
+
 - Go to method definition/find usages - `Command` + `B`  
 - Move line up/down - `Command` + `Shift` + `Up`/`Down`  
