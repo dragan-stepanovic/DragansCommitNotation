@@ -6,7 +6,7 @@ _Heuristic_: **Keep commit messages short to reduce the relative cost of committ
 The easier and faster it is to commit, the more often I'll do it, the smaller the changes I'll be making.  
 In Lean terms, this commit notation reduces batch transaction cost which enables smaller batches and more frequent integration.    
 
-Nice thing about refactorings (initially described in Martin Fowler's [Refactoring book](https://martinfowler.com/books/refactoring.html)) is that you (most often) need just two letters to represent them uniquely. That helps me with being able to make committing tiny changes so cheap that I can often commit multiple times per minute without feeling that committing is slowing me down.
+Nice thing about refactorings (initially described in Martin Fowler's [Refactoring book](https://martinfowler.com/books/refactoring.html)) is that you most often need just two letters to represent them uniquely in a way that it's easy to remember them. That helps me with being able to make committing tiny changes so cheap that I can often commit multiple times per minute without feeling that committing is slowing me down.
 
 <img width="865" alt="image" src="https://github.com/dragan-stepanovic/DragansCommitNotation/assets/332947/803fcc19-0121-49d9-82e6-42394659d8a0">
 
