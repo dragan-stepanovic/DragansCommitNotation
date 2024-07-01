@@ -12,6 +12,8 @@ Since reducing the cost of commiting makes it more likely that I'll make more sm
 
 <img width="865" alt="image" src="https://github.com/dragan-stepanovic/DragansCommitNotation/assets/332947/803fcc19-0121-49d9-82e6-42394659d8a0">
 
+These are the refactorings that I found I (we) use the most and for them I want to reduce the cost of doing them by (also) reducing the cost of committing the change once I do it:
+
 #### Rename
 - `rm` - rename method  
 - `rv` - rename variable  
