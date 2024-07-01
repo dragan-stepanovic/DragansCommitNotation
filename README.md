@@ -60,7 +60,8 @@ If anyone in the group is feeling anxious about the risk of a change (they feel 
 - Format code - `Command` + `Option` + `L`  
 
 #### Commit and Push  
-- Commit - `Command` + `K`  
+- Open commit dialog - `Command` + `K`
+- Commit (once in the commit dialog) - `Command` + `Enter`
 - Push - `Command` + `Shift` + `K`
 - Commit and push - `Command` + `Option` + `K`  
 - Discard uncommitted changes - `Command` + `Option` + `Z`
