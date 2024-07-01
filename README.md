@@ -15,16 +15,17 @@
 
 #### Extract
 - `xm` - extract method  
-- `xp` - extract parameter  
 - `xv` - extract variable  
+- `xp` - extract parameter  
 - `xf` - extract field  
 - `xc` - extract constant  
 - `xC` - extract class  
 
 #### Inline
-- `iv` - inline variable  
 - `im` - inline method  
+- `iv` - inline variable  
 - `ip` - inline parameter  
+- `if` - inline field  
 
 #### Move
 - `mm` - move method  
