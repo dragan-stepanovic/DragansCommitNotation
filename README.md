@@ -21,7 +21,11 @@ Make use of the `⌘`+`K`, `⌘`+`⏎`/`⌘`+`⌥`+`K` shortcuts in Rider IDE to
 - `mm` - move method  
 - `fmt` - format  
 - `rd` - remove duplication  
-- `tda` - Tell Don’t Ask  
+- `tda` - Tell Don’t Ask
+
+_**Every change made should be deployable.**_  
+If anyone in the group is feeling anxious about the risk of the change (they feel a change is too risky), we revert back to safety and do it in smaller, safer steps. Especially important in code that is not covered with tests or that we want to tweak enough to be able to test.
+
 
 ### Most Used Shortcuts
 
