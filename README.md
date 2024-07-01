@@ -59,7 +59,7 @@ If anyone in the group is feeling anxious about the risk of a change (they feel 
 
 - Change method signature - `Command` + `F6`  
 - Move static method - `F6`  
-- Make Method Non-Static (move static method to a type of one of the parameter's and make it an instance method) - `Command` + `Option` + `I`  (custom binding you'd need to make in a keymap) [link to the custom keymap]
+- Make Method Non-Static (move static method to a type of one of the parameter's and make it an instance method) - `Command` + `Option` + `I`  (custom binding you'd need to make in a keymap) [link to the custom keymap in this repo]
 
 - Format code - `Command` + `Option` + `L`  
 
