@@ -10,6 +10,8 @@
 - `rv` - rename variable  
 - `rp` - rename parameter  
 - `rf` - rename field
+- `rc` - rename constant
+- `rC` - rename class
 
 #### Extract
 - `xm` - extract method  
