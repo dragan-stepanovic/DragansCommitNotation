@@ -5,24 +5,31 @@
 **Heuristic**: Keep commit messages short in order to reduce the relative cost of committing, which means you’ll commit more often.  
 Make use of the `⌘`+`K`, `⌘`+`⏎`/`⌘`+`⌥`+`K` shortcuts in IntelliJ IDE to move to the commit window and commit/push.
 
+#### Rename
 - `rm` - rename method  
 - `rv` - rename variable  
 - `rp` - rename parameter  
 - `rf` - rename field
-  
+
+#### Extract
 - `xm` - extract method  
 - `xp` - extract parameter  
 - `xv` - extract variable  
 - `xf` - extract field  
 - `xc` - extract constant  
 - `xC` - extract class  
+
+#### Inline
 - `iv` - inline variable  
 - `im` - inline method  
 - `ip` - inline parameter  
+
+#### Move
 - `mm` - move method  
+- `tda` - Tell Don’t Ask
 - `fmt` - format  
 - `rd` - remove duplication  
-- `tda` - Tell Don’t Ask
+
 
 _**Every change commited must be deployable to production. If a commit is not deployable, the change is most likely not sufficiently small. Find smaller step instead.**_  
 If anyone in the group is feeling anxious about the risk of the change (they feel a change is too risky), we revert back to safety and do it in smaller, safer steps. Anxiety about the step is useful feedback about the risk and size of the change. That is especially important in code that is not covered with tests or that we need to tweak enough to be able to test it (catch 22).
