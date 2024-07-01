@@ -2,6 +2,32 @@
 Dragan's Commit Notation
 
 
+### Commit notation
+Heuristic: Keep commit messages short in order to reduce the relative cost of committing, which means you’ll commit more often. Make use of the ⌘+K, ⌘+⏎/⌘+⌥+K shortcuts in Rider IDE to move to the commit window and commit/push.
+
+`xm` - extract method  
+`xp` - extract parameter  
+`xv` - extract variable  
+`xf` - extract field  
+`xc` - extract constant  
+`xC` - extract class  
+`iv` - inline variable  
+`im` - inline method  
+`ip` - inline parameter  
+`rm` - rename method  
+`rv` - rename variable  
+`rp` - rename parameter  
+`rf` - rename field  
+`mm` - move method  
+`fmt` - format  
+`rd` - remove duplication  
+`tda` - Tell Don’t Ask  
+
+
+
+
+### Most Used Shortcuts
+
 Run all tests from the solution (`Command` + `;` + `L`)  
 Run all tests with coverage from the solution (Command + ; + K)  
 Run last test session (Command + ; + Y)  
