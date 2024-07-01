@@ -2,7 +2,7 @@
 
 
 ### Commit notation
-**Heuristic**: Keep commit messages short to reduce the relative cost of committing. The easier it is to commit, the more often I'll do it, the smaller the changes I'll make.  
+Heuristic: **Keep commit messages short to reduce the relative cost of committing**. The easier it is to commit, the more often I'll do it, the smaller the changes I'll make.  
 In Lean terms, this commit notation reduces batch transaction cost which enables smaller batches and more frequent integration.    
 
 <img width="865" alt="image" src="https://github.com/dragan-stepanovic/DragansCommitNotation/assets/332947/803fcc19-0121-49d9-82e6-42394659d8a0">
@@ -36,7 +36,7 @@ In Lean terms, this commit notation reduces batch transaction cost which enables
 - `rd` - remove duplication  
 
 
-_**Every change commited must be deployable to production. If a commit is not deployable, the change is most likely not sufficiently small. Find smaller step instead.**_  
+Heuristic: _**Every change commited must be deployable to production. If a commit is not deployable, the change is most likely not sufficiently small. Find smaller step instead.**_  
 If anyone in the group is feeling anxious about the risk of the change (they feel a change is too risky), we revert back to safety and do it in smaller, safer steps. Anxiety about the step is useful feedback about the risk and size of the change. That is especially important in code that is not covered with tests or that we need to tweak enough to be able to test it (catch 22).
 
 
