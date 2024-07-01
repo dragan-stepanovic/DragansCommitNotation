@@ -2,8 +2,7 @@
 
 
 ### Commit notation
-**Heuristic**: Keep commit messages short in order to reduce the relative cost of committing. The easier it is to commit, the more often I'll do it.  
-In Lean terms, this commit notation reduces batch transaction cost which enables smaller batches and more frequent integration.    
+**Heuristic**: Keep commit messages short in order to reduce the relative cost of committing. The easier it is to commit, the more often I'll do it. In Lean terms, this commit notation reduces batch transaction cost which enables smaller batches and more frequent integration.    
 
 
 #### Rename
