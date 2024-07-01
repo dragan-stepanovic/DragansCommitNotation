@@ -46,7 +46,8 @@ If anyone in the group is feeling anxious about the risk of the change (they fee
 - Discard not committed changes - `Command` + `Option` + `Z`  
 - Format code - `Command` + `Option` + `L`  
 - Commit - `Command` + `K`  
-- Push - `Command` + `Shift` + `K`  
+- Push - `Command` + `Shift` + `K`
+- Commit and push - `Command` + `Option` + `K`  
 - Rename method - `Shift` + `F6`  
 - Go to method definition/find usages - `Command` + `B`  
 - Move line up/down - `Command` + `Shift` + `Up`/`Down`  
