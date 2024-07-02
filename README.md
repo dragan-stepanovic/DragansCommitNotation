@@ -5,7 +5,8 @@
 _Heuristic_: _**Keep commit messages short to reduce the relative cost of committing compared to the size of a change**._  
 
 The easier and faster it is to commit, the more often I'll do it, the smaller the changes I'll be making.  
-In Lean terms, this commit notation reduces batch transaction cost which enables smaller batches and more frequent integration.    
+I make changes cheaper to make by heavily using IDE shortcuts and I make changes cheaper to commit by using IDE built-in commit dialog and using commit notation.  
+In Lean terms, using this commit notation and relying on shortcuts to makes tiny changes reduces batch transaction cost which enables smaller batches and more frequent integration.  
 
 Neat thing about refactorings (initially described in Martin Fowler's [Refactoring book](https://martinfowler.com/books/refactoring.html)) is that you most often need just two letters to represent them uniquely in a way that it's easy to remember them. That helps me with being able to make committing tiny changes so cheap (_lower transaction cost_) that I can often commit multiple times per minute (_smaller batches_) without feeling that committing is slowing me down (_higher flow efficiency_) while minimizing cognitive load of not having to think about the changes I didn't yet commit (_lower inventory_).  
 
