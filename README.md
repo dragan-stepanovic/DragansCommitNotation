@@ -43,7 +43,8 @@ These are the refactorings that I found I (we) use the most and for them I want 
 
 #### Misc
 - `rd` - remove duplication  
-- `fmt` - format  
+- `fmt` - format
+- `reorder` - reorder methods in a class
 
 _Heuristic_: _**Every change commited must be deployable to production. If a commit is not deployable, the change is most likely not sufficiently small. Find smaller step(s) instead.**_  
 
